@@ -1,0 +1,20 @@
+{
+  "CHANGELOG.md": "d7fc8bb9b59bcd892eb035b3e459aba2",
+  "LICENSE": "1ffe3abb84c3e2a534bdb14d7d55bfa1",
+  "README.markdown": "90ee3fd129657b1234eedb60f02bf404",
+  "Rakefile": "50b53fca271ad0f0253fe61e55dfc3f4",
+  "java.iml": "856756a1fab0d731f126ff56d197ff01",
+  "manifests/init.pp": "0cf3d6df9b10aa796ecbbe869d130062",
+  "manifests/install_config.pp": "cd0ed43a1be778b9dd6e9d96bb7eb33b",
+  "manifests/java_6.pp": "aa6eafbd8d654d3b3fb2f664a318dd9c",
+  "manifests/java_7.pp": "1617eae713fb44de867cb540d69aa914",
+  "manifests/java_8.pp": "6692a8740151f16334f33dc2a663eef0",
+  "metadata.json": "457b97885cc9343f00942f826db8cdc5",
+  "spec/defines/config_spec.rb": "9d34779d07973765468984a03469fcca",
+  "spec/defines/install_spec.rb": "33b2d5a960006f7ea340d5df5056740f",
+  "spec/defines/java_spec.rb": "dfbf779df4584b612c811ba75d14f245",
+  "spec/fixtures/manifests/site.pp": "d41d8cd98f00b204e9800998ecf8427e",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "spec/spec_helper.rb": "792eeb7aa7edafb93e2bc1d27c5e75c5",
+  "tests/init.pp": "327af604ddb38a8cc85817b98dbf1dbc"
+}

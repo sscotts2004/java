@@ -1,0 +1,40 @@
+{
+  "name": "dsestero-java",
+  "version": "1.2.1",
+  "author": "Dario Sestero",
+  "summary": "Install Java OpenJDK and configure the default java alternative",
+  "license": "Apache-2.0",
+  "source": "https://github.com/dsestero/java.git",
+  "project_page": "https://github.com/dsestero/java",
+  "issues_url": "https://github.com/dsestero/java/issues",
+  "dependencies": [
+    {"name":"puppetlabs/apt","version_requirement":"2.x"}
+  ],
+  "data_provider": null,
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 3.0.0"
+    }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Ubuntu"
+    },
+    {
+      "operatingsystem": "Debian"
+    },
+    {
+      "operatingsystem": "RedHat"
+    },
+    {
+      "operatingsystem": "CentOS"
+    }
+  ],
+  "tags": [
+    "java",
+    "jee",
+    "jvm",
+    "middleware"
+  ]
+}
